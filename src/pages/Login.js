@@ -1,5 +1,5 @@
-import React from 'react'
-class Login extends React.Component {
+import {Component} from 'react'
+class Login extends Component {
   render() {
     return (
       <div className='login-wrapper'>
